@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life and death of Damaris Page That great, arch, metropolitan (old woman) of Ratcliff high-way. Who (through age and sickness) departed this life at her manner of the Three-Tuns in the parish of Stepney the 9th day of this present October, and was buried the Sunday following at St. George's in South-wark, with great lamentation of all the sister-hood.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25966</idno><idno type="EEBO-CITATION">99828245</idno>
+  <idno type="VID">207574</idno>
+  <idno type="EEBO-PROQUEST">2248497889</idno>
+  
+            <idno type="STC">Wing L1992B</idno>
+            <idno type="PROQUEST">99828245</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828245e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25966)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207574)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1912:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The life and death of Damaris Page That great, arch, metropolitan (old woman) of Ratcliff high-way. Who (through age and sickness) departed this life at her manner of the Three-Tuns in the parish of Stepney the 9th day of this present October, and was buried the Sunday following at St. George's in South-wark, with great lamentation of all the sister-hood.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for R. Burton at the Horse-shoos in West-smith field,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Partly in verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Page, Damaris, d. 1669.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207574:1"/>
+            <p>THE LIFE and DEATH OF Damaris Page. THAT Great, Arch, Metropolitan <hi>(Old-Woman)</hi> OF Ratcliff High-Way.</p>
+            <p>Who (through Age and Sickness) de<g ref="char:EOLhyphen"/>parted this Life at her Manner of the Three-Tuns in the Parish of <hi>Stepney</hi> the 9th day of this present <hi>Octo<g ref="char:EOLhyphen"/>ber,</hi> and was buried the Sunday following at St. <hi>George's</hi> in <hi>South-wark,</hi> with great La<g ref="char:EOLhyphen"/>mentation of all the Sister-hood.</p>
+            <q>
+               <bibl>
+                  <hi>Hugh Peters, 1.2.</hi>
+               </bibl>
+               <p>Let us whiles we are <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> make use of our time, for a mans life is finished in a day.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for R. Burton at the Horse-shooe in West-Smith field. 1669.</p>
+            <pb facs="tcp:207574:2"/>
+            <pb facs="tcp:207574:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:207574:3"/>
+            <pb n="1" facs="tcp:207574:3"/>
+            <head>The Life and Death OF <hi>Damaris Page:</hi>
+            </head>
+            <p>
+               <hi>DAmaris Page,</hi> as is conjectured, was born about the Year 1601. and as it is thought in the Month of <hi>March</hi> because she was used to sturdy storms and bitter blasts which that Month is much subject unto she was in her time a woman of very great fame, for the Seamen had spread her name abroad into all the countrys of <hi>Europe, Asia, Africa</hi> and <hi>America,</hi> and the <hi>Isle of P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nes</hi> also, in which Country she was had in very great repute and Veneration by the Inhabitants ther<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>of, for those notable qualiti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s wi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> which she was indowed. Now there is <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e that is famous for all things but only for some particular. <hi>Dr. Faustus</hi> was very famous for being a conjurer <hi>Hind</hi> and <hi>Ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nam</hi> were famous for their <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hievery, Dr. <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi>— was much noted for his skill in a Pispot, <hi>Martin Parker</hi> was famous for making of Ballads, and <hi>Squire Dun</hi> got a great name for his excellent skil and dexterity in the riding knot, whereby in half an hours time he would cure a Man of the <hi>Squinancy,</hi> as he d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d often experiment at that terrib<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Tripple Tiburni<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ee that stands in the Road betwixt <hi>London</hi> and <hi>Pad<g ref="char:EOLhyphen"/>dington</hi> a Gentleman of my acquaintance was very f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mous for his skill in Tobacco-stoppers, and another that I knew got a great name for his ad<g ref="char:EOLhyphen"/>mirable dext<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rity in making of N<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> great a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> me<g ref="char:EOLhyphen"/>tropolitan <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.— was most notably famous for keeping a house of, what shall I call it, for it had divers names, some called it the Seamans whirl<g ref="char:EOLhyphen"/>pool, others <hi>Venus</hi> Bower, <hi>Cupids</hi> Pest-house, the Chyrurgions friend, the Hectors Office, a Vaulting-School, the amorous Chace, a Brothel, a Stew
+<pb n="2" facs="tcp:207574:4"/> the huck-strings Accademy, the hole in the Wall, &amp;c. But the down-right Seaman when he was gotten three quarters drunk, would call it in plain English, a Bawdy-house.</p>
+            <p>And therefore though she kept great hospitality, she could not be said to keep a good house, and though she had many Female servants she kept few Maids, dealing much in brittle Ware that were often subject to cracks and fla<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, whom the Chyrurgion was forced to play the Tinker with in mending them the other materials belonging to her house, were a clos<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Box with a side bed to kennel in, clean linnen, sweet powder, paint, p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tches, plaister, pint bottles of Wine at two shilling a bottle, Ste<g ref="char:EOLhyphen"/>pony, R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>spberry-ale, Cock-ale, Cakes, a Barrel of Beer, a tub of new ale, a G<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Strong-water, two Gallons of Brandy, Cans, Black pots, Pipes ready <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lled with stinking instead of Spanish. Tobacco; Cards, a Pits-pot, and a piece of crotched chalk that should make two scores at once for the greater felerity in writing.</p>
+            <p>And though some have reported her to be of a very hasty <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roward pee<g ref="char:EOLhyphen"/>vish disposition, yet we know contrarily that she wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> indued with a great stock of patience, as was evidently manifested when the unruly rabble on <hi>Easter Holy-days</hi> defaced her mansion of pleasure; breaking her goods, cutting in pieces her beds, making the feathers to fly about the streets, yet notwithstanding she were thus wronged, she was not heard to give them any bad words, but contrarily called them <hi>good gentlemen</hi> and <hi>pray gentlemen,</hi> with other Sugar-candy words, nothing savouring of scolding brangling, or impatiency at all.</p>
+            <p>But though she had some vertues, certainly she had more vices, then a<g ref="char:EOLhyphen"/>ny Smith hath to work withall, for she would lye (<hi>in her bed every night</hi> she would scold, but that she learned of her neighbours; she would drink, and eat too, else could she not have lived so long: she would talk, for she was not tongue-tied, yet was she very just of her word, for if she promised to help a man with a wh— she would not help him to an ho<g ref="char:EOLhyphen"/>nest woman.</p>
+            <q>
+               <l>And what can be desired more I pray,</l>
+               <l>Then people for to do as they do say.</l>
+            </q>
+            <p>And though some may think she got her living very lightly, and with much case, yet certainly they were greatly mistaken; for besides the
+<pb n="3" facs="tcp:207574:4"/> rigour of the Laws which them of her occupation are liable unto, as Im<g ref="char:EOLhyphen"/>prisonments, Cartings, and the like, there was besides great charges for Fines and Fees to Justices Clarks, Beadles, and such other inferiour reliques of Authority; beside<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a great deal of charge for white and red to empayer decayed Nature, and to hide the furrows and wrinkles of old age, which should they have appeared, might have been very detri<g ref="char:EOLhyphen"/>mental to one of her profession: and therefore whatsoever some may think, a B— doth not get her iiving with so much ease as the world supposeth, nor i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that adventure of her danger of Ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting to be slighted.</p>
+            <p>Now I would not have any one to be mistaken, to think because our <hi>Damaris</hi> died at <hi>Ratcl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ff-High way,</hi> that she was the old woman that was drowned there a Forth ght ago; No, be it known to you that she feared more burning then drowning; and besides too, wearing Cork-shooe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, she was so light-heel'd, that had she been thrown into the water, she would not have sunk.</p>
+            <p>No doubt but her ambition was very great in striving to imitate the examples of some former great Potentates and Noblemen, who upon the committing of some heighnous Crimes, to expiate heir sinnes, as they thought, would build Monastaries and Religious houses; which as that well-languag'd Historian Mr. <hi>Speed</hi> thinks, their foundations being lin'd in blood. or as bad matters was one great cause of their downfall in the time of King <hi>Henry</hi> the Eigth, so she was very charitable to the Poor whiles she lived, which yet I may speak not as any ways blaming her, and, as I am informed, at her death gave, amongst other Legacies, mo<g ref="char:EOLhyphen"/>ny to buy Smocks for a hundred poor Seamans widdows, an example of which I wish many that detested her life would practice at their Deaths.</p>
+            <p>She dyed on Saturday morning the 9th day of this instant <hi>October,</hi> and was with a great concourse of people attending her Corp, buried <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t St. <hi>Georges</hi> in <hi>Southwark</hi> on Sunday following in the afternoon, where now she rests in the Grave secure from a <hi>Shrove-tuesday</hi> rous, or <hi>E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ster-holydays</hi> vexation.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="elegy">
+                        <head>Her Elegy.</head>
+                        <lg>
+                           <l>And is it true; is <hi>Damaris</hi> dead indeed</l>
+                           <l>And hath put on Death's sable Ebbon Weed,</l>
+                           <pb n="4" facs="tcp:207574:5"/>
+                           <l>Hath grizly death instead of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>eef and Cabbidge</l>
+                           <l>Trust her up deep in Grave both Bag and Baggage,</l>
+                           <l>Then mourn ye Mobbs of <hi>Venus,</hi> each bright spark</l>
+                           <l>That shines in <hi>Luteners Lane,</hi> and <hi>Whetstones Park,</hi>
+                           </l>
+                           <l>Blow forth deep sighs and let your groans be runners</l>
+                           <l>Let tears run from your eyes like drops through scummers</l>
+                           <l>Let your eyes Rain make in the ground <hi>Meanders</hi>
+                           </l>
+                           <l>And weep her Death like <hi>Hero's</hi> and <hi>Leanders.</hi>
+                           </l>
+                        </lg>
+                        <lg>
+                           <l>Death on her house of Clay at last did seize,</l>
+                           <l>And sack't the same worse then the Prentices;</l>
+                           <l>There many a Seaman hath sat with his Doxy</l>
+                           <l>And spent his Coyn till he grew <hi>Foxy, Poxy:</hi>
+                           </l>
+                           <l>Boarding of Friggots, until at the last</l>
+                           <l>Lights of a fire-ship, and so spoyls his Mast,</l>
+                           <l>Well might you think mischief would on it come</l>
+                           <l>Falling to rummaging her Powder-room,</l>
+                           <l>Thus Souldiers may get wounds though not in Wars,</l>
+                           <l>For <hi>Venus</hi> hurts do prove the greatest scars.</l>
+                        </lg>
+                        <lg>
+                           <l>But whether goes my Muse; come back again</l>
+                           <l>Sayl not thy lustre in a Pockey Vein,</l>
+                           <l>Thy task it was to tell of death's Fegaries,</l>
+                           <l>And nor of Surgeons and Apothecaries:</l>
+                           <l>To meddle with no idle lustful VVench,</l>
+                           <l>That takes in <hi>English,</hi> and pays back in <hi>French,</hi>
+                           </l>
+                           <l>Thy task it, was to make an Elegy,</l>
+                           <l>To show how, where, and when did <hi>Damaris</hi> dye</l>
+                           <l>How sickness did her body Carbanado</l>
+                           <l>And then death kill'd her with his great Granado,</l>
+                           <l>Her Mobbs could not make cruel <hi>Mors</hi> to faint</l>
+                           <l>He'd not be bribed with their Pox not Paint,</l>
+                           <l>He knew she was a bit for his own Trencher,</l>
+                           <l>They did mistake to think death was a Wencher,</l>
+                           <l>Now she is gone and laid in ground full cool</l>
+                           <l>The cheif being dead the rest may break up School,</l>
+                           <pb n="5" facs="tcp:207574:5"/>
+                           <l>And yet oft-times we by experience know</l>
+                           <l>Great Oaks being gone, the Shrubs will faster grow,</l>
+                        </lg>
+                        <lg>
+                           <l>Farewell thou noted Female, henceforth be</l>
+                           <l>Fam'd with <hi>Lais, Thais, Chorrinna, Rhodope.</hi>
+                           </l>
+                           <l>And yet so long as <hi>Luteners-Lane</hi> stands still</l>
+                           <l>
+                              <hi>Dog and Bitch-yard, Whetstones Park,</hi> and <hi>Saffron-hill,</hi>
+                           </l>
+                           <l>Who listeth for to seek there he may find</l>
+                           <l>Though thou art gone, more h<gap reason="illegible" resp="#keyers" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap>s are le<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>t behind.</l>
+                        </lg>
+                        <lg>
+                           <head>Epitaph.</head>
+                           <l>Pass by Reader, and forbear</l>
+                           <l>To inquire who lies here,</l>
+                           <l>We do not mean believe to cheat</l>
+                           <l>Within here lies vertuous, modest, great,</l>
+                           <l>And such like Epithets be spread,</l>
+                           <l>Cozen the living belye the dead,</l>
+                           <l>We boast no wonders beg no praise</l>
+                           <l>Let this suffice and go your ways.</l>
+                        </lg>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <list>
+               <head>Some few Legacies which she bestowed by word of mouth a little before her departure.</head>
+               <item>
+                  <hi>Imprimis</hi> to all the <hi>Sister-hood</hi> in <hi>Nightingale-Lane Well-close, Ratcliff-High-way,</hi> and those petty places of Trading, two pence a piece, to buy thred to mend their stockings.</item>
+               <item>
+                  <hi>Item,</hi> I give to all those who having handsome Wives of their own yet follow whores, the sum of four pence a piece to buy them a book called <hi>Greens groatsworth of wit.</hi>
+               </item>
+               <item>
+                  <hi>Item,</hi> I give to all the Dammee Hectorian blades about the Town, the sum of thirteen-pence half-penny a peice, to pay the successor of <hi>Squire Dun,</hi> his wages when they shall have need of him.</item>
+               <item>
+                  <hi>Item,</hi> I give to all Thieves, Cut-purses, and Pick-pockets, good
+<pb n="6" facs="tcp:207574:6"/> counsel to leave off their damnable Trade, or else they will fall Gallows ripe into the Hang-mans budget.</item>
+               <item>
+                  <hi>Item,</hi> To all rotten p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ckified Who—(of which there is a great many) I give four-pence a peice, to buy them sweet pow<g ref="char:EOLhyphen"/>der, to keep them from stinking a ive.</item>
+               <item>
+                  <hi>Item,</hi> I bequeath to all young Sm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll▪ Smocks that intend to fol<g ref="char:EOLhyphen"/>low Whores, this counsel before hand that they provide Mony for the Apothecary and Chyrurgion.</item>
+               <item>
+                  <hi>Item,</hi> I give to the Officers belonging to Fumblers Hall o.o.o.o.</item>
+               <item>
+                  <hi>Item, I</hi> bequeath to him that shall write my Life and death the sum of ten shillings to be paid him by the book-seller.</item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>Post-script.</head>
+            <p>Much more might have been added of the vertues and vices of this woman, but I think here is sufficient, and more willingly then <hi>I</hi> would do for nothing, for the honestest woman that lives in <hi>Whet<g ref="char:EOLhyphen"/>stones Park, Luteners-Lane, Dog and bitch-yard, Saffron-hill, VVell-close, Nightingale-Lane,</hi> or <hi>Ratcliff-High-way.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:207574:6"/>
+         </div>
+      </back>
+   </text>
+</TEI>
